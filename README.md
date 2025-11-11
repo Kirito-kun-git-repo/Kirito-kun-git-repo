@@ -43,8 +43,8 @@
 A system to automate & optimize university football fixtures.  
 Stable logic, clean data flow, and simple UI/UX.
 
-### 📚 LengLearn  
-A SaaS platform focused on structured learning flows, progress tracking, and personalized learning modules.
+### 📚 LangLearn  
+A platform focused on helping People connect and Learn Any New Language by speaking with Others.
 
 ### 🏥 MedWise  
 A SaaS tool built to simplify medical workflow management with strong backend architecture.
